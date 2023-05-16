@@ -34,15 +34,3 @@ The application interacts with a backend API with the following endpoints:
 
 **Description:** Deletes a specific ad by its ID.  
 **Response:** A confirmation message of the deletion.
-
-## Installation and Usage
-
-*Instructions for setting up and running the application.*
-
-## Contributing
-
-*Instructions for how others can contribute to your project.*
-
-## License
-
-*Information about the license.*
